@@ -6,10 +6,10 @@
   <meta name="description" content="{{ site.description }}">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ site.title }}</title>
-  <link rel="stylesheet" href="/css/normalize.css">
-  <link rel="stylesheet" href="/css/syntax.css">
-  <link rel="stylesheet" href="/css/rrssb.css" />
-  <link rel="stylesheet" href="/css/solo.css">
+  <link rel="stylesheet" href="{{ site.base_url }}/css/normalize.css">
+  <link rel="stylesheet" href="{{ site.base_url }}/css/syntax.css">
+  <link rel="stylesheet" href="{{ site.base_url }}/css/rrssb.css" />
+  <link rel="stylesheet" href="{{ site.base_url }}/css/solo.css">
   <script src="/scripts/jquery.js"></script>
   <link rel="canonical" href="{{ site.ull }}" />
 </head>
@@ -20,6 +20,6 @@
     {{ content }}
     </div>
   </article>
-<script src="{{ site.url }}/scripts/rrssb.min.js"></script>
+<script src="{{ site.base_url }}/scripts/rrssb.min.js"></script>
 </body>
 </html>

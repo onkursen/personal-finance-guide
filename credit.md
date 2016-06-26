@@ -145,4 +145,4 @@ The [Citi Double Cash](https://www.citi.com/credit-cards/credit-card-details/cit
   * For most people, the [Chase Sapphire Preferred](https://creditcards.chase.com/credit-cards/sapphire-preferred-card.aspx) and [Chase Freedom](https://applynow.chase.com/FlexAppWeb/renderApp.do?PID=CFFD2&SPID=FJF6&CELL=600G&MSC=1514674244) provide a good one-two punch that allows you to use points for cash back or travel.
   * For those who only care about cash back explicitly, the [Chase Freedom](https://applynow.chase.com/FlexAppWeb/renderApp.do?PID=CFFD2&SPID=FJF6&CELL=600G&MSC=1514674244) and [Citi Double Cash](https://www.citi.com/credit-cards/credit-card-details/citi.action?ID=citi-double-cash-credit-card) provide a solid base to cover most purchases.
 
-Next step: [invest your money](/investing).
+Next step: [invest your money]({{ site.base_url }}/investing).

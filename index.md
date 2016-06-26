@@ -9,7 +9,7 @@ After reading this guide, you will familiar with the basic components of persona
 
 More explicitly, after following this guide, you should be knowledgeable about four broad areas of personal finance:
 
-* **[Cash](/cash)**: saving your money in checking and savings accounts
-* **[Credit](/credit)**: building your reliability as a borrower through credit cards and loans
-* **[Investing](/investing)**: saving for retirement and building wealth over the long term
-* **[Taxes](/taxes)**: file in a matter of an hour by cutting through the bureaucratic nightmare
+* **[Cash]({{ site.base_url }}/cash)**: saving your money in checking and savings accounts
+* **[Credit]({{ site.base_url }}/credit)**: building your reliability as a borrower through credit cards and loans
+* **[Investing]({{ site.base_url }}/investing)**: saving for retirement and building wealth over the long term
+* **[Taxes]({{ site.base_url }}/taxes)**: file in a matter of an hour by cutting through the bureaucratic nightmare

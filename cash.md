@@ -54,4 +54,4 @@ However, it does have a consideration:
 * A checking account is where money first comes in and is taken out for day-to-day use. Easy access to ATMs and a good online interface are key. I recommend the [Schwab Bank High Yield Investor Checking Account](https://www.schwab.com/public/schwab/banking_lending/checking_account).
 * A savings account is the place for your money to sit and grow for emergencies and future goals. I recommend the [Ally Bank Online Savings Account](https://www.ally.com/bank/online-savings-account/).
 
-Next step: [Build credit](/credit).
+Next step: [Build credit]({{ site.base_url }}/credit).
