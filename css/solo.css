@@ -34,7 +34,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #111;
   text-rendering: optimizeLegibility;
   font-family: 'Open Sans', serif;
-  line-height: 1.2
+  line-height: 1.2;
 }
 
 @media (max-width: 750px) {
@@ -65,20 +65,21 @@ h1 a {
 
 h2 {
   margin-top: 2rem;
-  font-size: 1.75rem;
-  font-weight: 500;
-  margin-bottom: 5rem;
-  color: #555;
-  text-align: right;
-  margin-right: -4rem;
+  font-size: 2rem;
+  font-weight: 700;
+  margin-left: -2rem;
+  /*margin-bottom: 5rem;*/
+  /*color: #555;*/
+  /*text-align: right;*/
+  /*margin-right: -4rem;*/
 }
 
 @media (min-width: 30rem) {
   h2 {
     margin-top: 2.5rem;
-    font-size: 1.75rem;
-    margin-bottom: 8rem;
-    margin-right: -4rem;
+    font-size: 3rem;
+    margin-bottom: 2rem;
+    /*margin-right: -4rem;*/
   }
 }
 
@@ -98,7 +99,7 @@ h3 {
 
 h4, h5, h6 {
   margin: 1.5rem -1rem 1.5rem -1rem;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
 }
 
 p, ul, ol, dl, table, pre, blockquote {
@@ -193,7 +194,8 @@ pre > code {
 }
 
 .container {
-  max-width: 625px;
+  /*max-width: 625px;*/
+  max-width: 725px;
   margin: 0 auto;
   padding: 0 0.75rem;
 }
