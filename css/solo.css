@@ -45,66 +45,29 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 2.5rem;
-  margin-bottom: 7rem;
+  font-size: 2.75rem;
   font-weight: 700;
-  margin-left: -2rem;
-  margin-right: -2rem;
-}
-
-@media (min-width: 30rem) {
-  h1 {
-    font-size: 4rem;
-    margin-bottom: 10rem;
-  }
-}
-
-h1 a {
-  color: inherit;
 }
 
 h2 {
   margin-top: 2rem;
-  font-size: 2rem;
+  font-size: 2.5rem;
   font-weight: 700;
-  margin-left: -2rem;
-  /*margin-bottom: 5rem;*/
-  /*color: #555;*/
-  /*text-align: right;*/
-  /*margin-right: -4rem;*/
-}
-
-@media (min-width: 30rem) {
-  h2 {
-    margin-top: 2.5rem;
-    font-size: 3rem;
-    margin-bottom: 2rem;
-    /*margin-right: -4rem;*/
-  }
+  margin-bottom: 1rem;
 }
 
 h3 {
-  margin: 2rem -2rem 1.75rem -2rem;
-  margin-top: 2rem;
+  margin-top: 1.5rem;
   font-size: 1.75rem;
 }
 
-@media (min-width: 30rem) {
-  h3 {
-    margin-top: 2.5rem;
-    font-size: 2rem;
-    margin-bottom: 1.5rem;
-  }
-}
-
 h4, h5, h6 {
-  margin: 1.5rem -1rem 1.5rem -1rem;
+  /*margin: 1.5rem -1rem 1.5rem -1rem;*/
   font-size: 1.2rem;
 }
 
 p, ul, ol, dl, table, pre, blockquote {
   margin-top: 0;
-  margin-bottom: 1.5rem;
 }
 
 ul, ol {
@@ -138,10 +101,8 @@ blockquote p:last-child {
 
 hr {
   border: none;
-  margin: 1.5rem 0;
   border-bottom: 1px solid #ccc;
   position: relative;
-  top: -1px;
 }
 
 .img, .container iframe {
@@ -149,7 +110,7 @@ hr {
 }
 
 a {
-word-wrap: break-word;
+  word-wrap: break-word;
 }
 
 .container img {
@@ -195,7 +156,7 @@ pre > code {
 
 .container {
   /*max-width: 625px;*/
-  max-width: 725px;
+  max-width: 850px;
   margin: 0 auto;
   padding: 0 0.75rem;
 }
