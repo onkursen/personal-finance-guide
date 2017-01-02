@@ -2,6 +2,8 @@
 layout: page
 ---
 
+### What this is
+
 Personal finance is an intimidating jungle filled with jargon, exceptions, and fees if you're not careful.
 But fear not. I'm here to be your tour guide and navigator.
 
