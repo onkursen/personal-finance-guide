@@ -17,16 +17,16 @@ A good checking account will have:
 * High availability/access to withdraw money from ATMs
 * Good web/mobile interface that allows you to check balances and deposit checks
 
-The **[Schwab Bank High Yield Investor Checking Account](https://www.schwab.com/public/schwab/banking_lending/checking_account)** is my preferred account because:
+My preferred account is the **[Ally Bank Online Checking Account](https://www.ally.com/bank/interest-checking-account/)** because:
 
-* It meets all of the requirements above.
-* Its linked Visa debit card offers a **[refund on any ATM fee worldwide](http://millionmilesecrets.com/2014/05/13/charles-schwab-debit-card/)**.
-* Customer service by phone is professional and available 24/7.
+* It meets all of the above requirements.
+* Its linked MasterCard debit card offers a **refund on ATM fees nationwide** (up to $10 per statement cycle).
+* Customer service by phone/chat is professional, effective, and available 24/7.
 
-However, there are a couple of considerations with this account:
+There is one consideration with online banking solutions, namely that they tend not to have physical branches. If that is a problem, you may want to open a checking account with a bank commonly available in your geographical area in addition to or in lieu of this account.
 
-* Applying for this account will result in a hard inquiry on your credit report (more on this in the Credit section).
-* Schwab offers enticing benefits by [mostly eliminating physical branches](https://www.schwab.com/public/schwab/nn/branch-locator/branches_abc.html). If that is a problem, you may want to open a checking account with a bank commonly available in your geographical area in addition to or in lieu of this account.
+
+**Advanced use case**: If you travel internationally, then you might want to consider also opening a **[Schwab Bank High Yield Investor Checking Account](https://www.schwab.com/public/schwab/banking_lending/checking_account)** because its linked Visa debit card offers a **[refund on any ATM fee worldwide](http://millionmilesecrets.com/2014/05/13/charles-schwab-debit-card/)**. However, a negative consideration (especially when just starting out) is that applying for this account will result in a hard inquiry on your credit report (more on this in the Credit section).
 
 ### Savings accounts
 
@@ -39,19 +39,17 @@ A good savings account will have:
 * High interest rates (so your money can grow while it sits in the account)
 * Good web/mobile interface to check balances and handle transfers online
 
-The **[Ally Bank Online Savings Account](https://www.ally.com/bank/online-savings-account/)** is my preferred account because:
+My preferred account is the **[Ally Bank Online Savings Account](https://www.ally.com/bank/online-savings-account/)** because:
 
-* It meets all of the requirements above (and has a 1.00% APY interest rate).
-* Customer service by phone is professional and available 24/7.
+* It meets all of the above requirements (with a 1.00% APY interest rate).
+* Customer service by phone/chat is professional and available 24/7.
 * It offers the ability to create multiple savings accounts that you can designate for different purposes or goals (e.g., emergency fund or saving for a wedding).
 
-However, it does have a consideration:
-
-* This is an *online* savings account, so it is not affiliated with a physical branch. If that is a problem, you may want to open a savings account with a bank commonly available in your geographical area in addition to or in lieu of this account.
+Like the checking account, this is an *online* savings account, so it is not affiliated with a physical branch. If that is a problem, you may want to open a savings account with a bank commonly available in your geographical area in addition to or in lieu of this account.
 
 ### Summary
 
-* A checking account is where money first comes in and is taken out for day-to-day use. Easy access to ATMs and a good online interface are key. I recommend the [Schwab Bank High Yield Investor Checking Account](https://www.schwab.com/public/schwab/banking_lending/checking_account).
+* A checking account is where money first comes in and is taken out for day-to-day use. Easy access to ATMs and a good online interface are key. I recommend the [Ally Bank Online Checking Account](https://www.ally.com/bank/interest-checking-account/) for most people and the [Schwab Bank High Yield Investor Checking Account](https://www.schwab.com/public/schwab/banking_lending/checking_account) for people who travel internationallly frequently.
 * A savings account is the place for your money to sit and grow for emergencies and future goals. I recommend the [Ally Bank Online Savings Account](https://www.ally.com/bank/online-savings-account/).
 
 Next step: [Build credit]({{ site.base_url }}/credit).

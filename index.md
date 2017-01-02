@@ -14,7 +14,7 @@ After reading this guide, you will be familiar with the basics of four areas of 
 
 ### Who are you, and why should I listen to you?
 
-Hi, and thanks for stopping by! My name is [Onkur Sen](https://onkursen.com). I'll be a software engineer at [Robinhood](http://robinhood.com), and I'm finishing my Masters in computer science from Stanford.
+Hi, and thanks for stopping by! My name is [Onkur Sen](https://onkursen.com), and I'm a software engineer at [Robinhood](http://robinhood.com).
 
 I've been interested in personal finance for about 3 years, and I wanted to present everything I've learned from books, blogs, and articles in an easy-to-understand guide that I wish I had when I graduated from college.
 
