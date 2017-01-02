@@ -2,7 +2,7 @@
 layout: page
 ---
 
-Personal finance is an intimidating jungle filled with jargon, exceptions, and fees if you're not careful.  
+Personal finance is an intimidating jungle filled with jargon, exceptions, and fees if you're not careful.
 But fear not. I'm here to be your tour guide and navigator.
 
 After reading this guide, you'll be familiar with the basics of four areas of personal finance that will set you on the path to self-sufficiency. If you're a new college grad, this will be particularly useful as you enter the "real world".
