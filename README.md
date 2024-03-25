@@ -1,6 +1,8 @@
+# *THIS GUIDE IS DEPRECATED.*
+
 # The New Grad's Guide to Personal Finance
 
-**Note**: I recommend financial tools and products in this guide. I do *NOT* receive any compensation for doing so; my recommendations are purely from my positive experiences.
+**Note**: I mention financial tools and products in this guide. I do *NOT* receive any compensation for doing so; my preferred tools are purely from my positive experiences. This is also not financial advice and is meant for informational purposes only.
 
 ----------
 
